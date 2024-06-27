@@ -5,6 +5,7 @@ import json
 
 def demo(img):
     
+    return;
 
 def filter_lines(lines):
     start_index = None
